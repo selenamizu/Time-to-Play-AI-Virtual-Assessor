@@ -9,4 +9,6 @@
 
 ## Bot
 Наш бот живёт в ТГ  
-Ссылочка на него: https://t.me/TG_Brainy_bot
+Ссылочка на него: https://t.me/TG_Brainy_bot  
+Папка бота https://github.com/selenamizu/Time-to-Play-AI-Virtual-Assessor/tree/main/TG_Bot
+
