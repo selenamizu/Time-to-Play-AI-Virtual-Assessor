@@ -13,5 +13,7 @@
 Папка бота https://github.com/selenamizu/Time-to-Play-AI-Virtual-Assessor/tree/main/TG_Bot
 
 ## AI модуль для бота
-
+Модуль ИИ, используемый для оценки ответов на вопросы, обученный на предосатвленном наборе лекций, находится по адресу  
+https://github.com/selenamizu/Time-to-Play-AI-Virtual-Assessor/tree/main/IA_moduls  
+Там же находится текстовый файл с описанием интерфейса.
 
