@@ -8,7 +8,7 @@
 4. Запустить основной блокнот geek_brains_qa.ipynb для проверки работы модели и оценки F1-score оценки ответов для train dataset и для тестового датасета, а также функция, используемая чат-ботом для оценки пар вопос-ответ из чата
 
 ## Bot
-Наш бот живёт в [ТГ](https://t.me/TG_Brainy_bot)
+Наш бот живёт в [ТГ](https://t.me/TG_Brainy_bot)  
 [Папка бота](https://github.com/selenamizu/Time-to-Play-AI-Virtual-Assessor/tree/main/TG_bot)
 
 ## AI модуль для бота
