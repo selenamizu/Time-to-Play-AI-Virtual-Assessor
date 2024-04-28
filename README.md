@@ -10,7 +10,7 @@
 ## Bot
 Наш бот живёт в ТГ  
 Ссылочка на него: https://t.me/TG_Brainy_bot  
-Папка бота https://github.com/selenamizu/Time-to-Play-AI-Virtual-Assessor/TG_Bot
+[Папка бота](https://github.com/selenamizu/Time-to-Play-AI-Virtual-Assessor/tree/main/TG_bot)
 
 ## AI модуль для бота
 Модуль ИИ, используемый для оценки ответов на вопросы, обученный на предоставленном наборе лекций, находится по адресу  
